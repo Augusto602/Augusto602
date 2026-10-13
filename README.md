@@ -41,6 +41,29 @@ Busco aprimorar continuamente meus conhecimentos e aplicar a tecnologia na solu�
 - Integração de sistemas
 - Processamento de dados
 
+## 💻 Projetos em destaque
+
+Nesta seção, apresento alguns projetos acadêmicos e pessoais que demonstram meus conhecimentos e minha evolução na área de tecnologia.
+
+### 🤖 Sistema de Navegação Autônoma — TCC
+Projeto acadêmico voltado ao desenvolvimento de um veículo robótico com navegação autônoma, utilizando Python, Arduino, sensores e integração com APIs.
+
+**Tecnologias utilizadas:**
+- Python
+- Arduino
+- Sensores
+- APIs REST
+
+**Principais objetivos:**
+- Coletar e processar dados do ambiente.
+- Integrar sensores e sistemas de software.
+- Desenvolver estratégias de navegação autônoma.
+- Realizar comunicação entre hardware e software.
+
+**Status:** Em desenvolvimento.
+
+🔗 [Visualizar projeto] https://github.com/Augusto602/tcc-unip-oscabras
+
 
 ## 📫 Contato profissional
 
