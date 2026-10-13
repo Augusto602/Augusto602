@@ -62,7 +62,7 @@ Projeto acadêmico voltado ao desenvolvimento de um veículo robótico com naveg
 
 **Status:** Em desenvolvimento.
 
-🔗 [Visualizar projeto] https://github.com/Augusto602/tcc-unip-oscabras
+🔗 [Visualizar projeto no GitHub](https://github.com/Augusto602/tcc-unip-oscabras)
 
 ### 📦 API de Pedidos — Desenvolvimento Backend
 Projeto voltado ao desenvolvimento de uma API para gerenciamento de pedidos, com foco na comunicação entre sistemas, organização de informações e aplicação de conceitos de desenvolvimento backend.
